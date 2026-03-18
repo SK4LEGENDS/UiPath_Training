@@ -1,0 +1,6 @@
+{
+  "Name": "Message_box",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
